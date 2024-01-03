@@ -23,7 +23,7 @@ Estou aberta a colaborações e aprecio feedback construtivo. Caso tenha sugest�
 ## 📫 Como Me Encontrar
 - LinkedIn: https://www.linkedin.com/in/karlla-oliveira/
 - Email: karlla@t3rcio.com.br
-- 
+
 ## 🌱 Próximos Desafios
 - Contribuir para projetos de código aberto.
 - Participar ativamente de eventos e conferências.
